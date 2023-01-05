@@ -1,5 +1,5 @@
 # Applied_bioinformatics_1MB519_Ancient_DNA
-Repository for Ancient DNA project in Applied bioinformatics course (1MB519) at Uppsala university.
+Repository for Ancient DNA project in Applied bioinformatics course (1MB519) at Uppsala university 2022.
 
 ## Required packages
 - Numpy
