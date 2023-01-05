@@ -23,3 +23,14 @@ Returns two files of sequence depth values for windows in genic regions and inte
 
 ### incremental_statistics
 Calculates the genome wide average coverage and the standard deviation, including or excluding outliers
+
+### triplet_frecuency_mammoth
+Returns files for every trineuclotide with the average depth ratio and the frecuency
+
+### triplet_frecuency_neanderthal
+Returns files for every trineuclotide with the average depth ratio and the frecuency
+
+### GC_genic_intergenic_mammoth
+Writes files with the average comparative depth ratio for each GC% as well as the standard deviation and the number of sliding windows contributing to the GC%. One file contains the GC-analysis for genic regions and one with intergenic regions. 
+
+
