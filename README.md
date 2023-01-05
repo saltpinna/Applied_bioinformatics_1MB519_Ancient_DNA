@@ -33,4 +33,6 @@ Returns files for every trineuclotide with the average depth ratio and the frecu
 ### GC_genic_intergenic_mammoth
 Writes files with the average comparative depth ratio for each GC% as well as the standard deviation and the number of sliding windows contributing to the GC%. One file contains the GC-analysis for genic regions and one with intergenic regions. 
 
+### GC_genic_intergenic_neanderthal
+Writes files with the average comparative depth ratio for each GC% as well as the standard deviation and the number of sliding windows contributing to the GC%. One file contains the GC-analysis for genic regions and one with intergenic regions. 
 
