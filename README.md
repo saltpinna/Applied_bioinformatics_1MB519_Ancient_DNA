@@ -9,8 +9,6 @@ Repository for Ancient DNA project in Applied bioinformatics course (1MB519) at 
 ## Scripts
 Following are brief descriptions of all scripts in the repository
 
-### Incrementalstatistics
-
 ### GC_analysis_Mammoth
 Writes a file with the average comparative depth ratio for each GC% as well as the standard deviation and the number of sliding windows contributing to the GC%. Used on the Mammoth coverage data files.
 
